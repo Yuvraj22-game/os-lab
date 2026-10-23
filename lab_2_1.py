@@ -24,7 +24,7 @@ def do_work(start, end, results, thread_no):
 # -------------------------------
 # 1. Single-threaded workload
 # -------------------------------
-N = 1000000
+N = 1000000l
 
 print("===== SINGLE THREADED =====")
 
